@@ -1,0 +1,98 @@
+Software is a set of computer programs and associated documentation and data.[1] This is in contrast to hardware, from which the system is built and which actually performs the work.
+ software is nothing but set of instruction or set of programs are known as software.
+software is that part of  a computer which can not be touched . 
+software tell a computer what to do and how to do.
+
+tyeps of software:
+1) system s|w 
+2)application s|w
+3)utiliti s|w
+
+1) system s|w: systerm spoftware is a software designed  to provied a platform to other software.
+             system software cantrol and manage the oprations of computer hardware.
+  ex : operating system (windows, android ,linux , etc...)
+
+2)   application s|w:  the software that helps you to do a spcial tyep of work is called application sotware..
+ex: MS world , excel, etc...
+
+3) utiliti s|w: utiliti software help to manage ,maintain and control computer resources  .
+ ex:  antivirus s|w, backup s|w, disk tools ,etc...
+
+
+
+
+
+
+
+
+
+
+ what are the tyep of application: 
+
+
+1) freeware : 
+: available free of cost.
+:we can download from internet easily.
+
+ex: adobe readers, skype, yahoo messanger.
+
+2) open source : 
+:available with source code.
+:user can easily modify and distribute.
+: can entier free or chargeble.
+
+3) shareware:
+: distributed freely to user on a fixed trail basis, with a time limit after that user is asked to pay.
+ex: IDM,AVG antivirus
+
+
+4) package software:
+:is a simply multiple application or modules that work together to meet various goals and onjective.
+ex: microsoft office package,which include individual application such as word,excel,access and power point.
+
+
+5)custome software:
+:coustome software is a devloped to meet the requirement of a particular organization or individual user.
+ex: e-commers solution , management and scheduling tools 
+
+
+3rd quation 
+
+
+Programming is the process of creating a set of instructions that tell a computer how to perform a task.
+ Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++
+
+The Programming Process
+Developing a program involves steps similar to any problem-solving task. There are five main ingredients in the programming process:
+Defining the problem
+Planning the solution
+Coding the program
+Testing the program
+Documenting the program
+
+
+
+
+4th quation
+
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
+ Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, 
+as well as for use as a scripting or glue language to connect existing components together.
+ Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
+ Python supports modules and packages, which encourages program modularity and code reuse. 
+The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+
+What is Python and why it is used?
+Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
+ Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.
+
+Top Reasons to Learn Python
+Data science.
+Scientific and mathematical computing.
+Web development.
+Finance and trading.
+System automation and administration.
+Computer graphics.
+Basic game development.
+Security and penetration testing.
